@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ee8f07ec-4575-4d96-ae3c-8a77142feafd" name="Changes" comment="modified">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumTesting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hamcrest-core-1.3-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hamcrest-core-1.3-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-4.13.2-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-4.13.2-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-4.13.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seleniumtest/CheckEachFieldOfTheRegiistrationForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seleniumtest/CountNumberOfItemInDesktop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seleniumtest/CountNumberOfListItemsAndComboBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seleniumtest/CountTheNumberOfObjectsPresentInTheWebpage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seleniumtest/CppProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seleniumtest/LoginToSpeficWebPageEmail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seleniumtest/LoginToSpefificWebPageGogle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seleniumtest/MinimumfourTestCases.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seleniumtest/Registration.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seleniumtest/TestAHtmlFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seleniumtest/WriteATestSuiteCaseForAnyTwoWebsite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seleniumtest/WriteAtestCaseBasedOnControls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seleniumtest/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2n2psF4NiIP7SoMuHnMWjtTgJAY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CheckEachFieldOfTheRegiistrationForm.executor": "Run",
+    "Application.CountNumberOfItemInDesktop.executor": "Run",
+    "Application.CountNumberOfListItemsAndComboBox.executor": "Run",
+    "Application.CountTheNumberOfObjectsPresentInTheWebpage.executor": "Run",
+    "Application.CppProgram.executor": "Run",
+    "Application.Demo.executor": "Run",
+    "Application.DesktopItems.executor": "Run",
+    "Application.EmailLogin.executor": "Run",
+    "Application.LoginToSpeficWebPageEmail.executor": "Run",
+    "Application.LoginToSpefificWebPageGogle.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.TestAHtmlFile.executor": "Run",
+    "Application.gmailLogin.executor": "Run",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Downloaded.Files.Path.Enabled": "true",
+    "JUnit.MinimumfourTestCases.executor": "Run",
+    "JUnit.MinimumfourTestCases.testAddProductToCart.executor": "Run",
+    "JUnit.MinimumfourTestCases.testInvalidBankLogin.executor": "Run",
+    "JUnit.MinimumfourTestCases.testProductSearch.executor": "Run",
+    "JUnit.MinimumfourTestCases.testValidBankLogin.executor": "Run",
+    "JUnit.WriteATestSuiteCaseForAnyTwoWebsite.executor": "Run",
+    "JUnit.WriteAtestCaseBasedOnControls.executor": "Run",
+    "Repository.Attach.Annotations": "true",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Program Files/Selenium",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Console Colors"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Seleniumtest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.EmailLogin">
+    <configuration name="CountNumberOfItemInDesktop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seleniumtest.CountNumberOfItemInDesktop" />
+      <module name="SeleniumTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SELINIUMTESTING2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DesktopItems" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo.DesktopItems" />
+      <module name="SeleniumTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmailLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SELINIUMTESTING2.EmailLogin" />
+      <module name="SeleniumTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SELINIUMTESTING2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmailLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SELINIUMTESTING2.gmailLogin" />
+      <module name="SeleniumTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SELINIUMTESTING2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinimumfourTestCases" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SELINIUMTESTING2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Seleniumtest" />
+      <option name="MAIN_CLASS_NAME" value="Seleniumtest.MinimumfourTestCases" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EmailLogin" />
+        <item itemvalue="Application.gmailLogin" />
+        <item itemvalue="JUnit.MinimumfourTestCases" />
+        <item itemvalue="Application.DesktopItems" />
+        <item itemvalue="Application.CountNumberOfItemInDesktop" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee8f07ec-4575-4d96-ae3c-8a77142feafd" name="Changes" comment="" />
+      <created>1728181234597</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728181234597</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="modified" />
+    <option name="LAST_COMMIT_MESSAGE" value="modified" />
+  </component>
+</project>
